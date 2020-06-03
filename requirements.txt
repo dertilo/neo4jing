@@ -1,0 +1,2 @@
+util@git+https://git@github.com/dertilo/util.git#egg=util
+py2neo
